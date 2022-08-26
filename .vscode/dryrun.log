@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/alexyeyit21/it/just-coding'
+make: Leaving directory '/home/alexyeyit21/it/just-coding'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
